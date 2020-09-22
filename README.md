@@ -21,3 +21,5 @@ kill -9 id
 
 #### reference
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-18-04
+
+https://www.youtube.com/watch?v=jY5fzVCkABg
