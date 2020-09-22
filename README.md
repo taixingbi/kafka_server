@@ -8,6 +8,7 @@ bin/kafka-server-start.sh config/server.properties
 ```
 
 #### more machine
+config/server.properties
 ```
 advertised.listeners=PLAINTEXT://ec2-54-91-38-33.compute-1.amazonaws.com:9092
 ```
