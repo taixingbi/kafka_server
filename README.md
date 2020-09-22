@@ -18,3 +18,6 @@ advertised.listeners=PLAINTEXT://ec2-54-91-38-33.compute-1.amazonaws.com:9092
 sudo lsof -i -P -n | grep LISTEN
 kill -9 id
 ```
+
+#### reference
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-18-04
