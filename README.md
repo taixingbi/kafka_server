@@ -5,6 +5,8 @@ wget https://ftp.wayne.edu/apache/kafka/2.6.0/kafka_2.13-2.6.0.tgz
 ```
 bin/zookeeper-server-start.sh config/zookeeper.properties
 bin/kafka-server-start.sh config/server.properties
+JMX_PORT=8004 bin/kafka-server-start.sh config/server.properties
+
 ```
 
 #### more machine
