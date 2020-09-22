@@ -5,5 +5,5 @@ wget https://ftp.wayne.edu/apache/kafka/2.6.0/kafka_2.13-2.6.0.tgz
 #### kill port
 ```
 sudo lsof -i -P -n | grep LISTEN
-kill -9
+kill -9 id
 ```
