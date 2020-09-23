@@ -21,6 +21,10 @@ sudo lsof -i -P -n | grep LISTEN
 kill -9 id
 ```
 
+##### ubuntu install java
+https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-18-04
+
+
 #### reference
 https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-18-04
 
